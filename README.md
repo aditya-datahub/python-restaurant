@@ -1,4 +1,4 @@
-# 🍽️ Python Restaurant
+# 🍽️ Python Restaurant Ordering System
 
 A beginner-friendly **Python project** that simulates a simple restaurant ordering system using **loops, conditionals, and dictionaries**.
 
