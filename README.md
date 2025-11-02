@@ -37,15 +37,20 @@ It’s a great mini-project to understand the basics of:
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
+Follow the steps below to set up and run this project on your local machine:
+
+1. **Clone the repository**
+   ```bash
    git clone https://github.com/aditya-datahub/python-restaurant.git
 
-2. Navigate to the project folder:
+2. Navigate to the project directory
    cd python-restaurant
 
-3. Run the script:
-   python main.py
-
+3. Run the Python script
+    python main.py
+   
 ## 📸 Demo Output
- ![Demo Screenshot]
- <img width="1062" height="621" alt="image" src="https://github.com/user-attachments/assets/36c956a2-7a4b-4d43-8e4a-88833119e01e" />
+
+The following image demonstrates the working of the Python Restaurant ordering system:
+
+![Python Restaurant Demo](https://github.com/user-attachments/assets/36c956a2-7a4b-4d43-8e4a-88833119e01e)
