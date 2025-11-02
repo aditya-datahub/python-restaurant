@@ -37,13 +37,15 @@ It’s a great mini-project to understand the basics of:
 ---
 
 ## 🚀 How to Run
-
 1. Clone this repository:
-   ```bash
    git clone https://github.com/aditya-datahub/python-restaurant.git
 
 2. Navigate to the project folder:
    cd python-restaurant
 
 3. Run the script:
-   main.py
+   python main.py
+
+## 📸 Demo Output
+ ![Demo Screenshot]
+ <img width="1062" height="621" alt="image" src="https://github.com/user-attachments/assets/36c956a2-7a4b-4d43-8e4a-88833119e01e" />
