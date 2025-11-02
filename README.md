@@ -40,7 +40,7 @@ It’s a great mini-project to understand the basics of:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aditya-datahub/python-restaurant.git```
+   git clone https://github.com/aditya-datahub/python-restaurant.git
 
 2. Navigate to the project folder:
    cd python-restaurant
