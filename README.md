@@ -43,10 +43,10 @@ Follow the steps below to set up and run this project on your local machine:
    ```bash
    git clone https://github.com/aditya-datahub/python-restaurant.git
 
-2. Navigate to the project directory
+2. Navigate to the project directory: 
    cd python-restaurant
 
-3. Run the Python script
+3. Run the Python script: 
     python main.py
    
 ## 📸 Demo Output
